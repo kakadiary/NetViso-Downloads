@@ -11,6 +11,10 @@
 - [GitHub 下载页](https://github.com/kakadiary/NetViso-Downloads/releases/tag/android-v0.8.0-build6)。在附件（Assets）中下载 `Netviso-0.8.0-build6-android.apk`、`SHA256SUMS` 和「安装必读」。
 - [百度网盘镜像](https://pan.baidu.com/s/1yh5OgoWZhq19_4xP9nVZkQ?pwd=58PB)，提取码：`58PB`。镜像版本以网盘页面为准。下文校验值对应 GitHub 上的 build 6 APK。
 
+## QQ 交流群
+
+群号：**1047103574**。欢迎交流使用体验、反馈问题和建议。
+
 ## 安装与覆盖升级
 
 适用 Android 10 及以上。下载 APK 后点开安装，按系统提示允许当前浏览器或文件管理器安装应用。
