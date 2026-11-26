@@ -30,10 +30,10 @@
 
 ## 文件校验
 
-GitHub build 6 APK 的 SHA-256
+GitHub build 6 APK 的 SHA-256（APK 于 2026-11-26 更新）
 
 ```text
-6b94f51ef6bd26da893afd24a4510ba0cd39649b38ff11a527541011335a858a  Netviso-0.8.0-build6-android.apk
+dbfb40a5fdd3ef5b171e6aed89ad5fdc0f80715668c1099b149912ee210d53f2  Netviso-0.8.0-build6-android.apk
 ```
 
 将 APK 与 `SHA256SUMS` 下载到同一目录后，可在 macOS 终端运行：
