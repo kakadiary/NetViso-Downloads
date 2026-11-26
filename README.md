@@ -9,6 +9,7 @@
 当前 GitHub 下载版本为 **0.8.0 build 6（公测版）**，包名 `com.kaka.netviso`。
 
 - [GitHub 下载页](https://github.com/kakadiary/NetViso-Downloads/releases/tag/android-v0.8.0-build6)。在附件（Assets）中下载 `Netviso-0.8.0-build6-android.apk`、`SHA256SUMS` 和「安装必读」。
+- [夸克网盘镜像](https://pan.quark.cn/s/f668cac4a6b7?pwd=GtRm)，提取码：`GtRm`。
 - [百度网盘镜像](https://pan.baidu.com/s/1yh5OgoWZhq19_4xP9nVZkQ?pwd=58PB)，提取码：`58PB`。镜像版本以网盘页面为准。下文校验值对应 GitHub 上的 build 6 APK。
 
 ## QQ 交流群
